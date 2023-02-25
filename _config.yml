@@ -28,10 +28,10 @@ baseurl: ""
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: Robert Farmer # Change this 
-content: Security Notes and Portfolio
+content: Security Notes and Research
 copyright:  
-  year: © 2022
-  msg: Contents under CC-BY-NC 
+  year: 
+  msg: 
 
 # Set title and content for private & broken link tooltop
 privatelinks:
